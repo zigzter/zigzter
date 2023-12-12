@@ -39,4 +39,8 @@
 <!-- GOODREADS-LIST:END -->
 ### Read:
 <!-- GOODREADS-FINISHED:START -->
+- [Data Structures the Fun Way: An Amusing Adventure with Coffee-Filled Examples](https://www.goodreads.com/review/show/6001335263?utm_medium=api&utm_source=rss) by Jeremy Kubica
+- [Why Buildings Stand Up: The Strength of Architecture](https://www.goodreads.com/review/show/5586843604?utm_medium=api&utm_source=rss) by Mario Salvadori
+- [Invisible Women: Data Bias in a World Designed for Men](https://www.goodreads.com/review/show/5746013158?utm_medium=api&utm_source=rss) by Caroline Criado Pérez
+- [SPQR: A History of Ancient Rome](https://www.goodreads.com/review/show/5826333242?utm_medium=api&utm_source=rss) by Mary Beard
 <!-- GOODREADS-FINISHED:END -->
