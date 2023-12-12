@@ -10,10 +10,18 @@
 - Speeding up my Neovim experience
 - Improving my data structures & algorithms skills
 
+## Certifications
+- AWS Certified Developer - Associate (2021)
+
 ## Skills 🤺
 ```JSON
 {
-  "proficient": []
+    "proficient": [
+        "JavaScript", "TypeScript", "AWS", "React", "Redux", "Node", "Hapi",
+        "websockets", "Redis", "SQL", "NoSQL", "Jest", "Mocha", "Playwright", "Docker",
+        "Terraform", "Linux", "Git", "REST APIs"
+    ],
+    "familiar": ["Express", "Go", "Ruby on Rails", "Python", "React Native", "GraphQL"]
 }
 ```
 
