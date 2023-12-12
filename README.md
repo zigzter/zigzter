@@ -4,7 +4,7 @@
 - Currently looking for work.
 - Amateur photographer, mostly wildlife & sports (main driver: Nikon Z8 + 500mm PF).
 - Coffee addict, currently on a V60 binge.
-- I use vim btw
+- I use vim btw 🤓
 
 ## I'm currently learning 🧑‍🎓
 - (Re-learning) Ruby on Rails
