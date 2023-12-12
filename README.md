@@ -35,7 +35,7 @@
 ## Books 📚
 ### Currently Reading:
 <!-- GOODREADS-LIST:START -->
-- [Cybersecurity Ops with bash: Attack, Defend, and Analyze from the Command Line](https://www.goodreads.com/review/show/6042086529?utm_medium=api&utm_source=rss) by Paul Troncone (⭐️2.88)
+- [Cybersecurity Ops with bash: Attack, Defend, and Analyze from the Command Line](https://www.goodreads.com/review/show/6042086529?utm_medium=api&utm_source=rss) by Paul Troncone
 <!-- GOODREADS-LIST:END -->
 ### Read:
 <!-- GOODREADS-FINISHED:START -->
