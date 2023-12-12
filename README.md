@@ -1,16 +1,21 @@
-### Hi there 👋
+## About me 👋
+- Full-stack Software Developer with 4 years experience, specializing in React, Typescript, Node, and AWS.
+- Cybersecurity enthusiast, looking to pivot there fulltime eventually.
+- Currently looking for work.
+- I use vim btw
 
-<!--
-**zigzter/zigzter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm currently learning 🧑‍🎓
+- (Re-learning) Ruby on Rails
+- Go
+- Speeding up my Neovim experience
+- Improving my data structures & algorithms skills
 
-Here are some ideas to get you started:
+## Skills 🤺
+```JSON
+{
+  "proficient": []
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">I am currently reading:</h3>
+<a href="<Your Profile URL>"><img src="https://goodreads-readme.vercel.app/api/book?id=33016187" alt="GoodReads reading" width="350" /></a>
