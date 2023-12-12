@@ -33,4 +33,4 @@
 - [LeetCode](https://leetcode.com/zigzter/)
 
 <h3 align="left">I am currently reading:</h3>
-<a href="<Your Profile URL>"><img src="https://goodreads-readme.vercel.app/api/book?id=33016187" alt="GoodReads reading" width="350" /></a>
+<a href="https://www.goodreads.com/user/show/33016187-ziggy"><img src="https://goodreads-readme.vercel.app/api/book?id=33016187" alt="GoodReads reading" width="350" /></a>
