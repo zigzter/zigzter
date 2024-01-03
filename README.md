@@ -35,6 +35,7 @@
 ## Books 📚
 ### Currently Reading:
 <!-- GOODREADS-LIST:START -->
+- [The Jakarta Method: Washington's Anticommunist Crusade and the Mass Murder Program that Shaped Our World](https://www.goodreads.com/review/show/6123456739?utm_medium=api&utm_source=rss) by Vincent Bevins
 - [System Design Interview – An insider's guide](https://www.goodreads.com/review/show/6050825811?utm_medium=api&utm_source=rss) by Alex Xu
 - [Cybersecurity Ops with bash: Attack, Defend, and Analyze from the Command Line](https://www.goodreads.com/review/show/6042086529?utm_medium=api&utm_source=rss) by Paul Troncone
 <!-- GOODREADS-LIST:END -->
