@@ -35,8 +35,7 @@
 ## Books 📚
 ### Currently Reading:
 <!-- GOODREADS-LIST:START -->
-- [Meditations](https://www.goodreads.com/review/show/6240632958?utm_medium=api&utm_source=rss) by Marcus Aurelius
-- [System Design Interview – An insider's guide](https://www.goodreads.com/review/show/6050825811?utm_medium=api&utm_source=rss) by Alex Xu
+- [Cobalt Red: How the Blood of the Congo Powers Our Lives](https://www.goodreads.com/review/show/6036757146?utm_medium=api&utm_source=rss) by Siddharth Kara
 - [Cybersecurity Ops with bash: Attack, Defend, and Analyze from the Command Line](https://www.goodreads.com/review/show/6042086529?utm_medium=api&utm_source=rss) by Paul Troncone
 <!-- GOODREADS-LIST:END -->
 ### Recently Finished:
