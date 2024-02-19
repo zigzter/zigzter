@@ -41,8 +41,8 @@
 <!-- GOODREADS-LIST:END -->
 ### Recently Finished:
 <!-- GOODREADS-FINISHED:START -->
+- [Meditations](https://www.goodreads.com/review/show/6240632958?utm_medium=api&utm_source=rss) by Marcus Aurelius
+- [System Design Interview – An insider's guide](https://www.goodreads.com/review/show/6050825811?utm_medium=api&utm_source=rss) by Alex Xu
 - [The Power of Habit: Why We Do What We Do in Life and Business](https://www.goodreads.com/review/show/6055794483?utm_medium=api&utm_source=rss) by Charles Duhigg
 - [The Jakarta Method: Washington's Anticommunist Crusade and the Mass Murder Program that Shaped Our World](https://www.goodreads.com/review/show/6123456739?utm_medium=api&utm_source=rss) by Vincent Bevins
-- [Spark: The Revolutionary New Science of Exercise and the Brain](https://www.goodreads.com/review/show/5675454309?utm_medium=api&utm_source=rss) by John J. Ratey
-- [Data Structures the Fun Way: An Amusing Adventure with Coffee-Filled Examples](https://www.goodreads.com/review/show/6001335263?utm_medium=api&utm_source=rss) by Jeremy Kubica
 <!-- GOODREADS-FINISHED:END -->
