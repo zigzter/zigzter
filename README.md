@@ -40,8 +40,8 @@
 <!-- GOODREADS-LIST:END -->
 ### Recently Finished:
 <!-- GOODREADS-FINISHED:START -->
+- [Chip War: The Fight for the World's Most Critical Technology](https://www.goodreads.com/review/show/5831641018?utm_medium=api&utm_source=rss) by Chris   Miller
 - [Cobalt Red: How the Blood of the Congo Powers Our Lives](https://www.goodreads.com/review/show/6036757146?utm_medium=api&utm_source=rss) by Siddharth Kara
 - [Meditations](https://www.goodreads.com/review/show/6240632958?utm_medium=api&utm_source=rss) by Marcus Aurelius
 - [System Design Interview – An insider's guide](https://www.goodreads.com/review/show/6050825811?utm_medium=api&utm_source=rss) by Alex Xu
-- [The Power of Habit: Why We Do What We Do in Life and Business](https://www.goodreads.com/review/show/6055794483?utm_medium=api&utm_source=rss) by Charles Duhigg
 <!-- GOODREADS-FINISHED:END -->
