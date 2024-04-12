@@ -35,6 +35,7 @@
 ## Books 📚
 ### Currently Reading:
 <!-- GOODREADS-LIST:START -->
+- [The Unbearable Lightness of Being](https://www.goodreads.com/review/show/5531781439?utm_medium=api&utm_source=rss) by Milan Kundera
 - [The Elements of Style, Fourth Edition](https://www.goodreads.com/review/show/6404773267?utm_medium=api&utm_source=rss) by William Strunk Jr.
 - [The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography](https://www.goodreads.com/review/show/6394205391?utm_medium=api&utm_source=rss) by Simon Singh
 - [Cybersecurity Ops with bash: Attack, Defend, and Analyze from the Command Line](https://www.goodreads.com/review/show/6042086529?utm_medium=api&utm_source=rss) by Paul Troncone
