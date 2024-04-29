@@ -35,6 +35,7 @@
 ## Books 📚
 ### Currently Reading:
 <!-- GOODREADS-LIST:START -->
+- [Chasing the Scream: The First and Last Days of the War on Drugs](https://www.goodreads.com/review/show/5906172024?utm_medium=api&utm_source=rss) by Johann Hari
 - [The Unbearable Lightness of Being](https://www.goodreads.com/review/show/5531781439?utm_medium=api&utm_source=rss) by Milan Kundera
 - [The Elements of Style, Fourth Edition](https://www.goodreads.com/review/show/6404773267?utm_medium=api&utm_source=rss) by William Strunk Jr.
 <!-- GOODREADS-LIST:END -->
