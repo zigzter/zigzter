@@ -35,7 +35,7 @@
 ## Books 📚
 ### Currently Reading:
 <!-- GOODREADS-LIST:START -->
-- [The Unbearable Lightness of Being](https://www.goodreads.com/review/show/5531781439?utm_medium=api&utm_source=rss) by Milan Kundera
+- [Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets (Incerto)](https://www.goodreads.com/review/show/6513251669?utm_medium=api&utm_source=rss) by Nassim Nicholas Taleb
 - [The Elements of Style, Fourth Edition](https://www.goodreads.com/review/show/6404773267?utm_medium=api&utm_source=rss) by William Strunk Jr.
 <!-- GOODREADS-LIST:END -->
 ### Recently Finished:
