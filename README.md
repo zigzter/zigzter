@@ -40,8 +40,8 @@
 <!-- GOODREADS-LIST:END -->
 ### Recently Finished:
 <!-- GOODREADS-FINISHED:START -->
+- [The Unbearable Lightness of Being](https://www.goodreads.com/review/show/5531781439?utm_medium=api&utm_source=rss) by Milan Kundera
+- [Chasing the Scream: The First and Last Days of the War on Drugs](https://www.goodreads.com/review/show/5906172024?utm_medium=api&utm_source=rss) by Johann Hari
 - [Deep Work: Rules for Focused Success in a Distracted World](https://www.goodreads.com/review/show/6055793842?utm_medium=api&utm_source=rss) by Cal Newport
 - [The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography](https://www.goodreads.com/review/show/6394205391?utm_medium=api&utm_source=rss) by Simon Singh
-- [Chip War: The Fight for the World's Most Critical Technology](https://www.goodreads.com/review/show/5831641018?utm_medium=api&utm_source=rss) by Chris   Miller
-- [Cobalt Red: How the Blood of the Congo Powers Our Lives](https://www.goodreads.com/review/show/6036757146?utm_medium=api&utm_source=rss) by Siddharth Kara
 <!-- GOODREADS-FINISHED:END -->
