@@ -35,6 +35,7 @@
 ## Books 📚
 ### Currently Reading:
 <!-- GOODREADS-LIST:START -->
+- [Breakfast of Champions](https://www.goodreads.com/review/show/6524505883?utm_medium=api&utm_source=rss) by Kurt Vonnegut Jr.
 - [Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets (Incerto)](https://www.goodreads.com/review/show/6513251669?utm_medium=api&utm_source=rss) by Nassim Nicholas Taleb
 - [The Elements of Style, Fourth Edition](https://www.goodreads.com/review/show/6404773267?utm_medium=api&utm_source=rss) by William Strunk Jr.
 <!-- GOODREADS-LIST:END -->
