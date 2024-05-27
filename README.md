@@ -41,8 +41,8 @@
 <!-- GOODREADS-LIST:END -->
 ### Recently Finished:
 <!-- GOODREADS-FINISHED:START -->
+- [Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets (Incerto)](https://www.goodreads.com/review/show/6513251669?utm_medium=api&utm_source=rss) by Nassim Nicholas Taleb
 - [The Unbearable Lightness of Being](https://www.goodreads.com/review/show/5531781439?utm_medium=api&utm_source=rss) by Milan Kundera
 - [Chasing the Scream: The First and Last Days of the War on Drugs](https://www.goodreads.com/review/show/5906172024?utm_medium=api&utm_source=rss) by Johann Hari
 - [Deep Work: Rules for Focused Success in a Distracted World](https://www.goodreads.com/review/show/6055793842?utm_medium=api&utm_source=rss) by Cal Newport
-- [The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography](https://www.goodreads.com/review/show/6394205391?utm_medium=api&utm_source=rss) by Simon Singh
 <!-- GOODREADS-FINISHED:END -->
