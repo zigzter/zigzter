@@ -36,7 +36,6 @@
 ### Currently Reading:
 <!-- GOODREADS-LIST:START -->
 - [Plunder: Private Equity's Plan to Pillage America](https://www.goodreads.com/review/show/6533604881?utm_medium=api&utm_source=rss) by Brendan Ballou
-- [Breakfast of Champions](https://www.goodreads.com/review/show/6524505883?utm_medium=api&utm_source=rss) by Kurt Vonnegut Jr.
 - [The Elements of Style, Fourth Edition](https://www.goodreads.com/review/show/6404773267?utm_medium=api&utm_source=rss) by William Strunk Jr.
 <!-- GOODREADS-LIST:END -->
 ### Recently Finished:
