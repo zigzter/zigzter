@@ -35,6 +35,7 @@
 ## Books 📚
 ### Currently Reading:
 <!-- GOODREADS-LIST:START -->
+- [In Cold Blood](https://www.goodreads.com/review/show/6090850815?utm_medium=api&utm_source=rss) by Truman Capote
 - [Plunder: Private Equity's Plan to Pillage America](https://www.goodreads.com/review/show/6533604881?utm_medium=api&utm_source=rss) by Brendan Ballou
 - [The Elements of Style, Fourth Edition](https://www.goodreads.com/review/show/6404773267?utm_medium=api&utm_source=rss) by William Strunk Jr.
 <!-- GOODREADS-LIST:END -->
