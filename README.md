@@ -40,8 +40,8 @@
 <!-- GOODREADS-LIST:END -->
 ### Recently Finished:
 <!-- GOODREADS-FINISHED:START -->
+- [In Cold Blood](https://www.goodreads.com/review/show/6090850815?utm_medium=api&utm_source=rss) by Truman Capote
 - [Plunder: Private Equity's Plan to Pillage America](https://www.goodreads.com/review/show/6533604881?utm_medium=api&utm_source=rss) by Brendan Ballou
 - [Outlive: The Science and Art of Longevity](https://www.goodreads.com/review/show/6036755566?utm_medium=api&utm_source=rss) by Peter Attia
 - [Breakfast of Champions](https://www.goodreads.com/review/show/6524505883?utm_medium=api&utm_source=rss) by Kurt Vonnegut Jr.
-- [Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets (Incerto)](https://www.goodreads.com/review/show/6513251669?utm_medium=api&utm_source=rss) by Nassim Nicholas Taleb
 <!-- GOODREADS-FINISHED:END -->
