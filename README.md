@@ -35,9 +35,7 @@
 ## Books 📚
 ### Currently Reading:
 <!-- GOODREADS-LIST:START -->
-- [The Recursive Book of Recursion: Ace the Coding Interview with Python and JavaScript](https://www.goodreads.com/review/show/6670799287?utm_medium=api&utm_source=rss) by Al Sweigart
 - [The Way of Kings (The Stormlight Archive, #1)](https://www.goodreads.com/review/show/6055799913?utm_medium=api&utm_source=rss) by Brandon Sanderson
-- [The Prize: The Epic Quest for Oil, Money, and Power](https://www.goodreads.com/review/show/5157005373?utm_medium=api&utm_source=rss) by Daniel Yergin
 <!-- GOODREADS-LIST:END -->
 ### Recently Finished:
 <!-- GOODREADS-FINISHED:START -->
