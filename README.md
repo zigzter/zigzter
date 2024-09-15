@@ -35,6 +35,7 @@
 ## Books 📚
 ### Currently Reading:
 <!-- GOODREADS-LIST:START -->
+- [Rise and Kill First: The Secret History of Israel's Targeted Assassinations](https://www.goodreads.com/review/show/5296157170?utm_medium=api&utm_source=rss) by Ronen Bergman
 - [The Way of Kings (The Stormlight Archive, #1)](https://www.goodreads.com/review/show/6055799913?utm_medium=api&utm_source=rss) by Brandon Sanderson
 <!-- GOODREADS-LIST:END -->
 ### Recently Finished:
