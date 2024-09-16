@@ -40,8 +40,8 @@
 <!-- GOODREADS-LIST:END -->
 ### Recently Finished:
 <!-- GOODREADS-FINISHED:START -->
+- [The Prize: The Epic Quest for Oil, Money, and Power](https://www.goodreads.com/review/show/5157005373?utm_medium=api&utm_source=rss) by Daniel Yergin
 - [In Cold Blood](https://www.goodreads.com/review/show/6090850815?utm_medium=api&utm_source=rss) by Truman Capote
 - [Plunder: Private Equity's Plan to Pillage America](https://www.goodreads.com/review/show/6533604881?utm_medium=api&utm_source=rss) by Brendan Ballou
 - [Outlive: The Science and Art of Longevity](https://www.goodreads.com/review/show/6036755566?utm_medium=api&utm_source=rss) by Peter Attia
-- [Breakfast of Champions](https://www.goodreads.com/review/show/6524505883?utm_medium=api&utm_source=rss) by Kurt Vonnegut Jr.
 <!-- GOODREADS-FINISHED:END -->
