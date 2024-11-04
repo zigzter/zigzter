@@ -15,8 +15,8 @@
 <!-- GOODREADS-LIST:END -->
 ### Recently Finished:
 <!-- GOODREADS-FINISHED:START -->
+- [Rise and Kill First: The Secret History of Israel's Targeted Assassinations](https://www.goodreads.com/review/show/5296157170?utm_medium=api&utm_source=rss) by Ronen Bergman
 - [The Prize: The Epic Quest for Oil, Money, and Power](https://www.goodreads.com/review/show/5157005373?utm_medium=api&utm_source=rss) by Daniel Yergin
 - [In Cold Blood](https://www.goodreads.com/review/show/6090850815?utm_medium=api&utm_source=rss) by Truman Capote
 - [Plunder: Private Equity's Plan to Pillage America](https://www.goodreads.com/review/show/6533604881?utm_medium=api&utm_source=rss) by Brendan Ballou
-- [Outlive: The Science and Art of Longevity](https://www.goodreads.com/review/show/6036755566?utm_medium=api&utm_source=rss) by Peter Attia
 <!-- GOODREADS-FINISHED:END -->
