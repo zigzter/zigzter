@@ -10,7 +10,6 @@
 ## Books 📚
 ### Currently Reading:
 <!-- GOODREADS-LIST:START -->
-- [The Black Swan: The Impact of the Highly Improbable](https://www.goodreads.com/review/show/6977753477?utm_medium=api&utm_source=rss) by Nassim Nicholas Taleb
 - [The Way of Kings (The Stormlight Archive, #1)](https://www.goodreads.com/review/show/6055799913?utm_medium=api&utm_source=rss) by Brandon Sanderson
 <!-- GOODREADS-LIST:END -->
 ### Recently Finished:
