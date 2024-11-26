@@ -10,7 +10,6 @@
 ## Books 📚
 ### Currently Reading:
 <!-- GOODREADS-LIST:START -->
-- [The Oxygen Advantage: The Simple, Scientifically Proven Breathing Techniques for a Healthier, Slimmer, Faster, and Fitter You](https://www.goodreads.com/review/show/7017919737?utm_medium=api&utm_source=rss) by Patrick McKeown
 - [The Way of Kings (The Stormlight Archive, #1)](https://www.goodreads.com/review/show/6055799913?utm_medium=api&utm_source=rss) by Brandon Sanderson
 <!-- GOODREADS-LIST:END -->
 ### Recently Finished:
