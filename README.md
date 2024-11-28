@@ -15,8 +15,8 @@
 <!-- GOODREADS-LIST:END -->
 ### Recently Finished:
 <!-- GOODREADS-FINISHED:START -->
+- [The Oxygen Advantage: The Simple, Scientifically Proven Breathing Techniques for a Healthier, Slimmer, Faster, and Fitter You](https://www.goodreads.com/review/show/7017919737?utm_medium=api&utm_source=rss) by Patrick McKeown
 - [Rise and Kill First: The Secret History of Israel's Targeted Assassinations](https://www.goodreads.com/review/show/5296157170?utm_medium=api&utm_source=rss) by Ronen Bergman
 - [The Black Swan: The Impact of the Highly Improbable](https://www.goodreads.com/review/show/6977753477?utm_medium=api&utm_source=rss) by Nassim Nicholas Taleb
 - [The Prize: The Epic Quest for Oil, Money, and Power](https://www.goodreads.com/review/show/5157005373?utm_medium=api&utm_source=rss) by Daniel Yergin
-- [In Cold Blood](https://www.goodreads.com/review/show/6090850815?utm_medium=api&utm_source=rss) by Truman Capote
 <!-- GOODREADS-FINISHED:END -->
