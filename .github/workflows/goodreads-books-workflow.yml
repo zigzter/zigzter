@@ -26,5 +26,5 @@ jobs:
             goodreads_user_id: "33016187"
             shelf: "read"
             template: "- [$title]($url) by $author"
-            max_books_count: 4
+            max_books_count: 2
             comment_tag_name: "GOODREADS-FINISHED"
