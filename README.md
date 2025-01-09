@@ -15,6 +15,6 @@
 <!-- GOODREADS-LIST:END -->
 ### Recently Finished:
 <!-- GOODREADS-FINISHED:START -->
+- [Antifragile: Things That Gain From Disorder (Incerto, #4)](https://www.goodreads.com/review/show/7036561255?utm_medium=api&utm_source=rss) by Nassim Nicholas Taleb
 - [The Oxygen Advantage: The Simple, Scientifically Proven Breathing Techniques for a Healthier, Slimmer, Faster, and Fitter You](https://www.goodreads.com/review/show/7017919737?utm_medium=api&utm_source=rss) by Patrick McKeown
-- [Rise and Kill First: The Secret History of Israel's Targeted Assassinations](https://www.goodreads.com/review/show/5296157170?utm_medium=api&utm_source=rss) by Ronen Bergman
 <!-- GOODREADS-FINISHED:END -->
