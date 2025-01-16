@@ -15,6 +15,6 @@
 <!-- GOODREADS-LIST:END -->
 ### Recently Finished:
 <!-- GOODREADS-FINISHED:START -->
+- [How To Make The Best Coffee At Home](https://www.goodreads.com/review/show/7220973492?utm_medium=api&utm_source=rss) by James Hoffmann
 - [Antifragile: Things That Gain From Disorder (Incerto, #4)](https://www.goodreads.com/review/show/7036561255?utm_medium=api&utm_source=rss) by Nassim Nicholas Taleb
-- [The Oxygen Advantage: The Simple, Scientifically Proven Breathing Techniques for a Healthier, Slimmer, Faster, and Fitter You](https://www.goodreads.com/review/show/7017919737?utm_medium=api&utm_source=rss) by Patrick McKeown
 <!-- GOODREADS-FINISHED:END -->
