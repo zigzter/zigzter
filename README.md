@@ -10,6 +10,7 @@
 ## Books 📚
 ### Currently Reading:
 <!-- GOODREADS-LIST:START -->
+- [Guns, Germs, and Steel: The Fates of Human Societies](https://www.goodreads.com/review/show/7242496473?utm_medium=api&utm_source=rss) by Jared Diamond
 - [The Way of Kings (The Stormlight Archive, #1)](https://www.goodreads.com/review/show/6055799913?utm_medium=api&utm_source=rss) by Brandon Sanderson
 <!-- GOODREADS-LIST:END -->
 ### Recently Finished:
