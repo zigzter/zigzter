@@ -15,6 +15,6 @@
 <!-- GOODREADS-LIST:END -->
 ### Recently Finished:
 <!-- GOODREADS-FINISHED:START -->
+- [The Artist's Way: A Spiritual Path to Higher Creativity](https://www.goodreads.com/review/show/7188838110?utm_medium=api&utm_source=rss) by Julia Cameron
 - [How To Make The Best Coffee At Home](https://www.goodreads.com/review/show/7220973492?utm_medium=api&utm_source=rss) by James Hoffmann
-- [Antifragile: Things That Gain From Disorder (Incerto, #4)](https://www.goodreads.com/review/show/7036561255?utm_medium=api&utm_source=rss) by Nassim Nicholas Taleb
 <!-- GOODREADS-FINISHED:END -->
