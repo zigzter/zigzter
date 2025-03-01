@@ -1,8 +1,8 @@
 ## About me 👋
-- Full-stack Software Developer with 4 years experience, specializing in React, Typescript, Node, and AWS.
+- Full-stack Software Developer with 4 years work experience, specializing in React, Typescript, Node, and AWS.
 - Working at Pallet.
 - Amateur photographer, mostly wildlife & sports (main driver: Nikon Z8 + 500mm PF).
-- Coffee addict, currently trying to improve my espresso (Bambino & DF54).
+- Coffee addict, currently trying to improve my espresso and latte art (Bambino & DF54).
 - Enjoy amateur powerlifting, but pretty bad at it.
 - I use vim & arch linux btw 🤓
 
