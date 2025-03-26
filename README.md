@@ -15,6 +15,6 @@
 <!-- GOODREADS-LIST:END -->
 ### Recently Finished:
 <!-- GOODREADS-FINISHED:START -->
+- [Guns, Germs, and Steel: The Fates of Human Societies](https://www.goodreads.com/review/show/7242496473?utm_medium=api&utm_source=rss) by Jared Diamond
 - [The Artist's Way: A Spiritual Path to Higher Creativity](https://www.goodreads.com/review/show/7188838110?utm_medium=api&utm_source=rss) by Julia Cameron
-- [How To Make The Best Coffee At Home](https://www.goodreads.com/review/show/7220973492?utm_medium=api&utm_source=rss) by James Hoffmann
 <!-- GOODREADS-FINISHED:END -->
