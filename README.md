@@ -14,6 +14,6 @@
 <!-- GOODREADS-LIST:END -->
 ### Recently Finished:
 <!-- GOODREADS-FINISHED:START -->
+- [The Promise of Canada: 150 Years--People and Ideas That Have Shaped Our Country](https://www.goodreads.com/review/show/7431344452?utm_medium=api&utm_source=rss) by Charlotte Gray
 - [Guns, Germs, and Steel: The Fates of Human Societies](https://www.goodreads.com/review/show/7242496473?utm_medium=api&utm_source=rss) by Jared Diamond
-- [The Artist's Way: A Spiritual Path to Higher Creativity](https://www.goodreads.com/review/show/7188838110?utm_medium=api&utm_source=rss) by Julia Cameron
 <!-- GOODREADS-FINISHED:END -->
