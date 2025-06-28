@@ -15,6 +15,6 @@
 <!-- GOODREADS-LIST:END -->
 ### Recently Finished:
 <!-- GOODREADS-FINISHED:START -->
-- [The Way of Kings (The Stormlight Archive, #1)](https://www.goodreads.com/review/show/6055799913?utm_medium=api&utm_source=rss) by Brandon Sanderson
-- [The Promise of Canada: 150 Years--People and Ideas That Have Shaped Our Country](https://www.goodreads.com/review/show/7431344452?utm_medium=api&utm_source=rss) by Charlotte Gray
+- [The ISIS Apocalypse: The History, Strategy, and Doomsday Vision of the Islamic State](https://www.goodreads.com/review/show/1449417344?utm_medium=api&utm_source=rss) by William McCants
+- [Starting Strength](https://www.goodreads.com/review/show/2031678456?utm_medium=api&utm_source=rss) by Mark Rippetoe
 <!-- GOODREADS-FINISHED:END -->
