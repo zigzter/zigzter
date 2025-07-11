@@ -15,6 +15,6 @@
 <!-- GOODREADS-LIST:END -->
 ### Recently Finished:
 <!-- GOODREADS-FINISHED:START -->
+- [Words of Radiance (The Stormlight Archive, #2)](https://www.goodreads.com/review/show/7631768291?utm_medium=api&utm_source=rss) by Brandon Sanderson
 - [The ISIS Apocalypse: The History, Strategy, and Doomsday Vision of the Islamic State](https://www.goodreads.com/review/show/1449417344?utm_medium=api&utm_source=rss) by William McCants
-- [Starting Strength](https://www.goodreads.com/review/show/2031678456?utm_medium=api&utm_source=rss) by Mark Rippetoe
 <!-- GOODREADS-FINISHED:END -->
