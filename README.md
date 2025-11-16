@@ -10,6 +10,7 @@
 ## Books 📚
 ### Currently Reading:
 <!-- GOODREADS-LIST:START -->
+- [Mythology](https://www.goodreads.com/review/show/8073125277?utm_medium=api&utm_source=rss) by Edith Hamilton
 - [Rhythm of War (The Stormlight Archive, #4)](https://www.goodreads.com/review/show/7928761983?utm_medium=api&utm_source=rss) by Brandon Sanderson
 - [Capital in the Twenty First Century](https://www.goodreads.com/review/show/7486085032?utm_medium=api&utm_source=rss) by Thomas Piketty
 <!-- GOODREADS-LIST:END -->
