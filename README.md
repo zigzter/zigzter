@@ -16,6 +16,6 @@
 <!-- GOODREADS-LIST:END -->
 ### Recently Finished:
 <!-- GOODREADS-FINISHED:START -->
+- [The Demon-Haunted World: Science as a Candle in the Dark](https://www.goodreads.com/review/show/8099125892?utm_medium=api&utm_source=rss) by Carl Sagan
 - [Oathbringer (The Stormlight Archive, #3)](https://www.goodreads.com/review/show/7728274925?utm_medium=api&utm_source=rss) by Brandon Sanderson
-- [Words of Radiance (The Stormlight Archive, #2)](https://www.goodreads.com/review/show/7631768291?utm_medium=api&utm_source=rss) by Brandon Sanderson
 <!-- GOODREADS-FINISHED:END -->
