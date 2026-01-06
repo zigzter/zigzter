@@ -16,6 +16,6 @@
 <!-- GOODREADS-LIST:END -->
 ### Recently Finished:
 <!-- GOODREADS-FINISHED:START -->
+- [Mythology](https://www.goodreads.com/review/show/8073125277?utm_medium=api&utm_source=rss) by Edith Hamilton
 - [Rhythm of War (The Stormlight Archive, #4)](https://www.goodreads.com/review/show/7928761983?utm_medium=api&utm_source=rss) by Brandon Sanderson
-- [The Demon-Haunted World: Science as a Candle in the Dark](https://www.goodreads.com/review/show/8099125892?utm_medium=api&utm_source=rss) by Carl Sagan
 <!-- GOODREADS-FINISHED:END -->
