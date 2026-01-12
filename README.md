@@ -15,6 +15,6 @@
 <!-- GOODREADS-LIST:END -->
 ### Recently Finished:
 <!-- GOODREADS-FINISHED:START -->
+- [One Day, Everyone Will Have Always Been Against This](https://www.goodreads.com/review/show/8030564511?utm_medium=api&utm_source=rss) by Omar El Akkad
 - [Mythology](https://www.goodreads.com/review/show/8073125277?utm_medium=api&utm_source=rss) by Edith Hamilton
-- [Rhythm of War (The Stormlight Archive, #4)](https://www.goodreads.com/review/show/7928761983?utm_medium=api&utm_source=rss) by Brandon Sanderson
 <!-- GOODREADS-FINISHED:END -->
