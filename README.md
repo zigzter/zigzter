@@ -17,6 +17,6 @@
 <!-- GOODREADS-LIST:END -->
 ### Recently Finished:
 <!-- GOODREADS-FINISHED:START -->
+- [Six Easy Pieces: Essentials of Physics Explained by Its Most Brilliant Teacher](https://www.goodreads.com/review/show/8449117525?utm_medium=api&utm_source=rss) by Richard P. Feynman
 - [One Day, Everyone Will Have Always Been Against This](https://www.goodreads.com/review/show/8030564511?utm_medium=api&utm_source=rss) by Omar El Akkad
-- [Mythology](https://www.goodreads.com/review/show/8073125277?utm_medium=api&utm_source=rss) by Edith Hamilton
 <!-- GOODREADS-FINISHED:END -->
