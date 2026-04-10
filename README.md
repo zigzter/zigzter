@@ -10,7 +10,6 @@
 ## Books 📚
 ### Currently Reading:
 <!-- GOODREADS-LIST:START -->
-- [Six Easy Pieces: Essentials of Physics Explained by Its Most Brilliant Teacher](https://www.goodreads.com/review/show/8449117525?utm_medium=api&utm_source=rss) by Richard P. Feynman
 - [Black Earth: The Holocaust as History and Warning](https://www.goodreads.com/review/show/5316090480?utm_medium=api&utm_source=rss) by Timothy Snyder
 - [The Algorithm Design Manual](https://www.goodreads.com/review/show/8169197755?utm_medium=api&utm_source=rss) by Steven S. Skiena
 - [Capital in the Twenty First Century](https://www.goodreads.com/review/show/7486085032?utm_medium=api&utm_source=rss) by Thomas Piketty
