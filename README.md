@@ -16,6 +16,6 @@
 <!-- GOODREADS-LIST:END -->
 ### Recently Finished:
 <!-- GOODREADS-FINISHED:START -->
+- [General Gainz: A Weight Training Framework](https://www.goodreads.com/review/show/8598441574?utm_medium=api&utm_source=rss) by Cody Lefever
 - [Six Easy Pieces: Essentials of Physics Explained by Its Most Brilliant Teacher](https://www.goodreads.com/review/show/8449117525?utm_medium=api&utm_source=rss) by Richard P. Feynman
-- [One Day, Everyone Will Have Always Been Against This](https://www.goodreads.com/review/show/8030564511?utm_medium=api&utm_source=rss) by Omar El Akkad
 <!-- GOODREADS-FINISHED:END -->
