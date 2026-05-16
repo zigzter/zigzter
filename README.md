@@ -10,7 +10,7 @@
 ## Books 📚
 ### Currently Reading:
 <!-- GOODREADS-LIST:START -->
-- [Black Earth: The Holocaust as History and Warning](https://www.goodreads.com/review/show/5316090480?utm_medium=api&utm_source=rss) by Timothy Snyder
+- [The Republic](https://www.goodreads.com/review/show/6240633957?utm_medium=api&utm_source=rss) by Plato
 - [The Algorithm Design Manual](https://www.goodreads.com/review/show/8169197755?utm_medium=api&utm_source=rss) by Steven S. Skiena
 - [Capital in the Twenty First Century](https://www.goodreads.com/review/show/7486085032?utm_medium=api&utm_source=rss) by Thomas Piketty
 <!-- GOODREADS-LIST:END -->
