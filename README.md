@@ -10,8 +10,8 @@
 ## Books 📚
 ### Currently Reading:
 <!-- GOODREADS-LIST:START -->
+- [Pragmatic Thinking and Learning: Refactor Your Wetware](https://www.goodreads.com/review/show/8733627144?utm_medium=api&utm_source=rss) by Andy   Hunt
 - [The Dictator's Handbook: Why Bad Behavior is Almost Always Good Politics](https://www.goodreads.com/review/show/5999178581?utm_medium=api&utm_source=rss) by Bruce Bueno de Mesquita
-- [The Republic](https://www.goodreads.com/review/show/6240633957?utm_medium=api&utm_source=rss) by Plato
 - [The Algorithm Design Manual](https://www.goodreads.com/review/show/8169197755?utm_medium=api&utm_source=rss) by Steven S. Skiena
 - [Capital in the Twenty First Century](https://www.goodreads.com/review/show/7486085032?utm_medium=api&utm_source=rss) by Thomas Piketty
 <!-- GOODREADS-LIST:END -->
