@@ -16,6 +16,6 @@
 <!-- GOODREADS-LIST:END -->
 ### Recently Finished:
 <!-- GOODREADS-FINISHED:START -->
+- [Pragmatic Thinking and Learning: Refactor Your Wetware](https://www.goodreads.com/review/show/8733627144?utm_medium=api&utm_source=rss) by Andy   Hunt
 - [The Republic](https://www.goodreads.com/review/show/6240633957?utm_medium=api&utm_source=rss) by Plato
-- [Black Earth: The Holocaust as History and Warning](https://www.goodreads.com/review/show/5316090480?utm_medium=api&utm_source=rss) by Timothy Snyder
 <!-- GOODREADS-FINISHED:END -->
