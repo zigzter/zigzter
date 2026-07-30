@@ -16,6 +16,6 @@
 <!-- GOODREADS-LIST:END -->
 ### Recently Finished:
 <!-- GOODREADS-FINISHED:START -->
+- [The Dictator's Handbook: Why Bad Behavior is Almost Always Good Politics](https://www.goodreads.com/review/show/5999178581?utm_medium=api&utm_source=rss) by Bruce Bueno de Mesquita
 - [Pragmatic Thinking and Learning: Refactor Your Wetware](https://www.goodreads.com/review/show/8733627144?utm_medium=api&utm_source=rss) by Andy   Hunt
-- [The Republic](https://www.goodreads.com/review/show/6240633957?utm_medium=api&utm_source=rss) by Plato
 <!-- GOODREADS-FINISHED:END -->
