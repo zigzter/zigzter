@@ -16,6 +16,6 @@
 <!-- GOODREADS-LIST:END -->
 ### Recently Finished:
 <!-- GOODREADS-FINISHED:START -->
+- [In This Economy?: How Money & Markets Really Work](https://www.goodreads.com/review/show/8815355327?utm_medium=api&utm_source=rss) by Kyla Scanlon
 - [The Dictator's Handbook: Why Bad Behavior is Almost Always Good Politics](https://www.goodreads.com/review/show/5999178581?utm_medium=api&utm_source=rss) by Bruce Bueno de Mesquita
-- [Pragmatic Thinking and Learning: Refactor Your Wetware](https://www.goodreads.com/review/show/8733627144?utm_medium=api&utm_source=rss) by Andy   Hunt
 <!-- GOODREADS-FINISHED:END -->
