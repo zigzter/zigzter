@@ -10,6 +10,7 @@
 ## Books 📚
 ### Currently Reading:
 <!-- GOODREADS-LIST:START -->
+- [The Shock Doctrine: The Rise of Disaster Capitalism](https://www.goodreads.com/review/show/6691700859?utm_medium=api&utm_source=rss) by Naomi Klein
 - [The Algorithm Design Manual](https://www.goodreads.com/review/show/8169197755?utm_medium=api&utm_source=rss) by Steven S. Skiena
 - [Capital in the Twenty First Century](https://www.goodreads.com/review/show/7486085032?utm_medium=api&utm_source=rss) by Thomas Piketty
 <!-- GOODREADS-LIST:END -->
