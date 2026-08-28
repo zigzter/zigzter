@@ -16,6 +16,6 @@
 <!-- GOODREADS-LIST:END -->
 ### Recently Finished:
 <!-- GOODREADS-FINISHED:START -->
+- [Everyone Who Is Gone Is Here: The United States, Central America, and the Making of a Crisis](https://www.goodreads.com/review/show/8030568794?utm_medium=api&utm_source=rss) by Jonathan Blitzer
 - [In This Economy?: How Money & Markets Really Work](https://www.goodreads.com/review/show/8815355327?utm_medium=api&utm_source=rss) by Kyla Scanlon
-- [The Dictator's Handbook: Why Bad Behavior is Almost Always Good Politics](https://www.goodreads.com/review/show/5999178581?utm_medium=api&utm_source=rss) by Bruce Bueno de Mesquita
 <!-- GOODREADS-FINISHED:END -->
