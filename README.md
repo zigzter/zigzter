@@ -15,6 +15,6 @@
 <!-- GOODREADS-LIST:END -->
 ### Recently Finished:
 <!-- GOODREADS-FINISHED:START -->
+- [The Shock Doctrine: The Rise of Disaster Capitalism](https://www.goodreads.com/review/show/6691700859?utm_medium=api&utm_source=rss) by Naomi Klein
 - [Everyone Who Is Gone Is Here: The United States, Central America, and the Making of a Crisis](https://www.goodreads.com/review/show/8030568794?utm_medium=api&utm_source=rss) by Jonathan Blitzer
-- [In This Economy?: How Money & Markets Really Work](https://www.goodreads.com/review/show/8815355327?utm_medium=api&utm_source=rss) by Kyla Scanlon
 <!-- GOODREADS-FINISHED:END -->
