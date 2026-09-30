@@ -10,6 +10,8 @@
 ## Books 📚
 ### Currently Reading:
 <!-- GOODREADS-LIST:START -->
+- [Poverty, by America](https://www.goodreads.com/review/show/5541570008?utm_medium=api&utm_source=rss) by Matthew Desmond
+- [Poverty, by America](https://www.goodreads.com/review/show/8985003459?utm_medium=api&utm_source=rss) by Matthew Desmond
 - [The Algorithm Design Manual](https://www.goodreads.com/review/show/8169197755?utm_medium=api&utm_source=rss) by Steven S. Skiena
 - [Capital in the Twenty First Century](https://www.goodreads.com/review/show/7486085032?utm_medium=api&utm_source=rss) by Thomas Piketty
 <!-- GOODREADS-LIST:END -->
