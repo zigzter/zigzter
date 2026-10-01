@@ -17,6 +17,6 @@
 <!-- GOODREADS-LIST:END -->
 ### Recently Finished:
 <!-- GOODREADS-FINISHED:START -->
+- [Bonk: The Curious Coupling of Science and Sex](https://www.goodreads.com/review/show/5376277704?utm_medium=api&utm_source=rss) by Mary Roach
 - [The Shock Doctrine: The Rise of Disaster Capitalism](https://www.goodreads.com/review/show/6691700859?utm_medium=api&utm_source=rss) by Naomi Klein
-- [Everyone Who Is Gone Is Here: The United States, Central America, and the Making of a Crisis](https://www.goodreads.com/review/show/8030568794?utm_medium=api&utm_source=rss) by Jonathan Blitzer
 <!-- GOODREADS-FINISHED:END -->
