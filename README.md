@@ -16,6 +16,6 @@
 <!-- GOODREADS-LIST:END -->
 ### Recently Finished:
 <!-- GOODREADS-FINISHED:START -->
+- [Poverty, by America](https://www.goodreads.com/review/show/5541570008?utm_medium=api&utm_source=rss) by Matthew Desmond
 - [Bonk: The Curious Coupling of Science and Sex](https://www.goodreads.com/review/show/5376277704?utm_medium=api&utm_source=rss) by Mary Roach
-- [The Shock Doctrine: The Rise of Disaster Capitalism](https://www.goodreads.com/review/show/6691700859?utm_medium=api&utm_source=rss) by Naomi Klein
 <!-- GOODREADS-FINISHED:END -->
