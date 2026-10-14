@@ -10,7 +10,7 @@
 ## Books 📚
 ### Currently Reading:
 <!-- GOODREADS-LIST:START -->
-- [Lifecycle Investing: A New, Safe, and Audacious Way to Improve the Performance of Your Retirement Portfolio](https://www.goodreads.com/review/show/9015202884?utm_medium=api&utm_source=rss) by Ian Ayres
+- [The Stranger](https://www.goodreads.com/review/show/9024463066?utm_medium=api&utm_source=rss) by Albert Camus
 - [The Algorithm Design Manual](https://www.goodreads.com/review/show/8169197755?utm_medium=api&utm_source=rss) by Steven S. Skiena
 - [Capital in the Twenty First Century](https://www.goodreads.com/review/show/7486085032?utm_medium=api&utm_source=rss) by Thomas Piketty
 <!-- GOODREADS-LIST:END -->
